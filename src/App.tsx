@@ -22,7 +22,7 @@ function App() {
   return (
     <div className="flex flex-col bg-[url('../public/hero-pattern.png')] bg-cover bg-no-repeat min-h-screen pt-[45px]">
       <header className={classes("flex w-full items-center justify-between", containerClassName)}>
-        <h1 className='font-neuropolitical text-primary text-2xl md:text-3xl'>UsePhlox</h1>
+        <h1 className='font-neuropolitical text-primary text-2xl md:text-3xl'>Phlox</h1>
         <JoinWaitListButton className='md:flex hidden'/>
       </header>
       <section className='mt-[58px] md:mt-[68px] flex-1 relative flex flex-col w-full'>
